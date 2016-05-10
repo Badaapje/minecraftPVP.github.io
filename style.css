@@ -1,0 +1,91 @@
+body {
+  font-family: 'Comic Sans MS';
+  background-color: #7EB5D6;
+}
+.blok {
+  background-color: whitesmoke
+}
+.h22 {
+  color: #7EB5D6 ;
+  text-align: center;
+
+}
+h1 {
+  color:#7EB5D6 ;
+  text-align: center;
+  font-size: 40px;
+}
+
+.Huahwi {
+  margin-top: 100px;
+  margin-left: 280px
+}
+
+.HuahwiText {
+  margin-left: 400px;
+  color: #7EB5D6 ;
+}
+
+.Nestorio { 
+  margin-left: 280px;
+}
+
+.NestorioText { 
+  margin-left: 400px;
+  color: #7EB5D6 ;
+}
+
+
+.HuahwiFilm {
+  margin-left:150px;
+  margin-top: ;
+}
+
+.NestorioFilm {
+  margin-left: 150px;
+}
+
+.GrapeText {
+ margin-left: 400px;
+  color: #7EB5D6 ;
+}
+
+.Grape {
+  margin-left: 280px;
+}
+
+.GrapeFilm {
+  margin-left: 150px;
+}
+
+.Isaac {
+  margin-left: 280px;
+}
+
+.IsaacText {
+  margin-left: 400px;
+  color: #7EB5D6 ;
+}
+
+.IsaacFilm {
+  margin-left: 150px;
+}
+
+.Creeper {
+  margin-left: 280px;
+}
+
+.CreeperFilm {
+  margin-left: 150px;
+}
+
+.CreeperText {
+  margin-left: 400px;
+  color: #7EB5D6;
+}
+
+.div {
+  background-color: #274257;
+  margin-left: 15px;
+  margin-right: 15px;
+}
